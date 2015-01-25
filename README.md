@@ -4,7 +4,7 @@ This is an modification for the phpBB forums software. You need an instalation o
 
 DESCRIPTION
 -------
-Shows a list with similar topics at the end of a topic.
+A user have to accept the terms if they was changed to use his account
 
 INSTALATION
 ----------
