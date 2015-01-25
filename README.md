@@ -11,6 +11,11 @@ INSTALATION
 To install this modification you need to edit some files of your phpBB installation with a text editor. Open 
 the install.xml with your webbrowser and follow the instructions.
 
+SUPPORT
+-------
+You can get support for this extension on <a href="https://www.phpbb.com/community/viewtopic.php?f=69&t=1430535">phpbb.com</a>
+or in german on <a href="https://www.phpbb.de/community/viewtopic.php?f=88&t=167029">phpbb.de</a>. For more informations look at
+<a href="https://tas2580.net/downloads/download-2.html">my Website</a>.
 
 LICENSE
 -------
